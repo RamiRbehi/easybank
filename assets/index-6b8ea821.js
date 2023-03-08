@@ -66,8 +66,10 @@ Error generating stack: `+o.message+`
     text-align: center;
     align-items: center;
     padding: 10px 0;
+    gap: 180px;
 `,Am=A.div`
     flex: 1;
+    
 `,Im=A.img`
 `,Mm=A.div`
     flex: 1;
@@ -119,8 +121,7 @@ Error generating stack: `+o.message+`
     background-color: hsl(0, 0%, 98%);
     scroll-snap-align: center;
     overflow: hidden;
-    
-    `,Vm=A.div`
+`,Vm=A.div`
     display: flex;
     justify-content: space-between;
     width: 1300px;
@@ -132,7 +133,7 @@ Error generating stack: `+o.message+`
     align-items: start;
     text-align: start;
     gap: 40px;
-    margin: 150px 250px 0 80px;
+    margin: 150px 300px 0 80px;
 `,Qm=A.h1`
     color: hsl(233, 26%, 24%);
     font-weight: 400;
