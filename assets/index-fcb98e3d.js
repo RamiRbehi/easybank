@@ -292,7 +292,7 @@ Error generating stack: `+o.message+`
 
   @media only screen and (max-width: 375px) {
     width: 100%;
-    height: 260vh;
+    height: 200vh;
     justify-content: start;
   }
 `,k0=A.div`
@@ -362,7 +362,7 @@ Error generating stack: `+o.message+`
     @media only screen and (max-width: 375px) {
      width: 100%;
      justify-content: start;
-     height: 340vh;
+     height: 270vh;
      gap: 30px;
     }
 `,L0=A.h2`
